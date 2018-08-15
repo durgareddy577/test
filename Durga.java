@@ -4,6 +4,6 @@ class Durga
         {
              System.out.println("Hello World");
              System.out.println("Hello Durga");
-             System.out.println("Hello Balu");
+            
         }
 }
